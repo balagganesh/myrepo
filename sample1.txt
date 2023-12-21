@@ -1,2 +1,8 @@
 This is a sample edit file
+<<<<<<< Updated upstream
 edited by bala
+=======
+
+
+hi iam bala
+>>>>>>> Stashed changes
