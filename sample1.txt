@@ -1,10 +1,10 @@
 This is a sample edit file
-<<<<<<< Updated upstream
 edited by bala
-=======
-
-
 hi iam bala
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 
 dell laptops:
+=======
+dell g15
+>>>>>>> Stashed changes
